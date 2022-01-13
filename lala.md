@@ -227,10 +227,10 @@ We then plotted the fraction of retreived patterns according to the number of ba
 
 #### These are the plots we obtained:
 
-##### Capacity Curves for each of the 10 Network Sizes -- Fraction of Retrieved Patterns vs # of Base Patterns)
+##### Capacity Curves for each of the 10 Network Sizes -- Fraction of Retrieved Patterns vs # of Base Patterns, for each Network size
 
 <p align="center">
-<img src="https://github.com/annahk43/Images-for-README/blob/master/frac%20retrieved%20vs%20num%20perturb.jpeg">
+<img src="https://github.com/annahk43/Images-for-README/blob/master/frac%20retrieved%2090%25%20prob.jpeg">
 </p>
 
 ##### Summary capacity plot -- # of patterns that can be retrieved with >= 0.9 probability vs. # of neurons
@@ -567,5 +567,3 @@ These are the corresponding plots -- fraction of retrieved patterns vs # of pert
 <p align="center">
 <img src="https://github.com/annahk43/Images-for-README/blob/master/frac%20retrieved%20vs%20num%20perturb.jpeg">
 </p>
-
-
